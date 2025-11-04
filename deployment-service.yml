@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: swaroophub/practice:v1
+        image: swaroophub/myapp
         ports:
         - containerPort: 3000   # Use port 3000
 
